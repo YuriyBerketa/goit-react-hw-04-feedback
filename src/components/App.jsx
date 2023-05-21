@@ -29,8 +29,6 @@ export  function App() {
     }
   };
 
-
-
    return (
       <> 
         <Section title="Please Leave feedback"> 
